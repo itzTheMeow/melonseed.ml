@@ -12,6 +12,7 @@ body {
   background-repeat: repeat;
   font-family: Nevis;
   color: white;
+  overflow-x: hidden;
 }
 
 #navbar {
