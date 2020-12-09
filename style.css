@@ -16,3 +16,29 @@ body {
 #navbar {
   background-color: #46b82a;
 }
+
+#content {
+  padding: 10px;
+  min-height: 85vh;
+}
+
+#content-loader {
+  background-color: black;
+  opacity: 0.5;
+  display: block;
+  width: 100vw;
+  height: 100vh;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 5;
+}
+#content-loader-icon {
+  opacity: 0.8;
+  position: fixed;
+  top: 43vh;
+  left: 47vw;
+  -webkit-animation: spin 2s linear infinite;
+  -moz-animation: spin 2s linear infinite;
+  animation: spin 2s linear infinite;
+}
