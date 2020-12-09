@@ -10,4 +10,9 @@ body {
   background-image: url("./Block.png");
   background-repeat: repeat;
   font-family: Nevis;
+  color: white;
+}
+
+#navbar {
+  background-color: #46b82a;
 }
