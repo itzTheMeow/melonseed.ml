@@ -42,3 +42,7 @@ body {
   -moz-animation: spin 2s linear infinite;
   animation: spin 2s linear infinite;
 }
+
+.smooth-image {
+  border-radius: 6px;
+}
