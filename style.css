@@ -3,7 +3,7 @@
   src: url(./Nevis.ttf);
 }
 :root {
-  --melon: ;
+  --melon: #46b82a;
 }
 
 body {
@@ -14,7 +14,7 @@ body {
 }
 
 #navbar {
-  background-color: #46b82a;
+  background-color: var(--melon);
 }
 
 #content {
