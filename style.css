@@ -1,4 +1,13 @@
+@font-face {
+  font-family: Nevis;
+  src: url(./Nevis.ttf);
+}
+:root {
+  --melon: ;
+}
+
 body {
   background-image: url("./Block.png");
   background-repeat: repeat;
+  font-family: Nevis;
 }
